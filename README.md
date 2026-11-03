@@ -1,17 +1,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:12306B,100:00C6FF&section=header&animation=twinkling" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:021B16,45:065F46,100:39FF88&section=header&animation=twinkling" width="100%" alt="Green Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2500&pause=1500&color=00C6FF&center=true&vCenter=true&repeat=false&width=800&height=90&lines=PRANJALI+HULE" alt="Pranjali Hule"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2500&pause=1500&color=69DB7C&center=true&vCenter=true&repeat=false&width=800&height=90&lines=PRANJALI+HULE" alt="Pranjali Hule"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2600&pause=900&color=E2F3FF&center=true&vCenter=true&width=800&height=50&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+SQL;Building+Scalable+Web+Applications;Problem+Solving+%7C+Software+Development" alt="Introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2600&pause=900&color=B7F7D0&center=true&vCenter=true&width=800&height=50&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+SQL;Building+Scalable+Web+Applications;Problem+Solving+%7C+Software+Development" alt="Introduction"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ROLE-JAVA%20FULL%20STACK%20DEVELOPER-0284C7?style=for-the-badge&labelColor=020617" alt="Role"/>
-<img src="https://img.shields.io/badge/EDUCATION-B.TECH%20CSE-0284C7?style=for-the-badge&labelColor=020617" alt="Education"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-0284C7?style=for-the-badge&labelColor=020617" alt="Focus"/>
+<img src="https://img.shields.io/badge/ROLE-JAVA%20FULL%20STACK%20DEVELOPER-087F5B?style=for-the-badge&labelColor=021B16" alt="Role"/>
+<img src="https://img.shields.io/badge/EDUCATION-B.TECH%20CSE-087F5B?style=for-the-badge&labelColor=021B16" alt="Education"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-087F5B?style=for-the-badge&labelColor=021B16" alt="Focus"/>
 
 <br/><br/>
 
@@ -20,20 +20,24 @@
 </a>
 
 <a href="https://github.com/pranju1711">
-<img src="https://img.shields.io/github/followers/pranju1711?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=0284C7&labelColor=020617" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/pranju1711?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=087F5B&labelColor=021B16" alt="GitHub Followers"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=pranju1711&style=flat-square&color=0284C7&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=pranju1711&style=flat-square&color=087F5B&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:021B16,50:39FF88,100:021B16" width="100%" alt=""/>
 
 <div align="center">
 
-## ABOUT ME
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=69DB7C&center=true&vCenter=true&repeat=false&width=700&height=55&lines=ABOUT+ME" alt="About Me"/>
 
 </div>
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ### Hello, I'm Pranjali Hule 👋
 
@@ -41,18 +45,15 @@ I'm a Computer Science and Engineering graduate passionate about **Java Full Sta
 
 I enjoy building practical applications, developing REST APIs, working with databases, and solving real-world problems through technology.
 
-- ☕ Strong interest in Java and Object-Oriented Programming.
+- ☕ Strong interest in Java and OOP.
 - 🚀 Developing backend applications using Spring Boot.
-- 🎨 Building responsive user interfaces using React.js.
+- 🎨 Building responsive interfaces using React.js.
 - 🗄️ Working with MySQL, PostgreSQL, and MongoDB.
 - 🔗 Developing and testing REST APIs using Postman.
 - 📚 Currently undergoing Java Full Stack training at QSpiders.
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### My Developer Profile
+</td>
+<td width="42%" valign="top">
 
 ```yaml
 name: Pranjali Hule
@@ -77,7 +78,7 @@ frontend:
   - HTML
   - CSS
 
-databases:
+database:
   - MySQL
   - PostgreSQL
   - MongoDB
@@ -86,21 +87,19 @@ status: Open to opportunities
 ```
 
 </td>
-<td width="42%" valign="top">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,mongodb,postgres,git,github,postman&theme=dark&perline=3" alt="Skills"/>
-
-</td>
 </tr>
 </table>
 
+> [!TIP]
 > **Career Goal:** To start my career as a Software Developer, contribute to real-world projects, and continuously improve my technical skills.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:021B16,50:39FF88,100:021B16" width="100%" alt=""/>
 
 <div align="center">
 
-## TECH ARSENAL
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=69DB7C&center=true&vCenter=true&repeat=false&width=700&height=55&lines=TECH+ARSENAL" alt="Tech Arsenal"/>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,mysql,postgres,mongodb,nodejs,express,git,github,postman,vscode&theme=dark&perline=8" alt="Technology Skills"/>
 
@@ -113,14 +112,14 @@ status: Open to opportunities
 | Frontend Development | HTML5, CSS3, JavaScript, React.js |
 | Databases | MySQL, PostgreSQL, MongoDB |
 | API Development | REST APIs, CRUD Operations, Postman |
-| Concepts | OOP, Collections, Exception Handling, DSA, DBMS |
+| Computer Science | OOP, Collections, Exception Handling, DSA, DBMS |
 | Tools | Git, GitHub, VS Code, IntelliJ IDEA, Eclipse |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:021B16,50:39FF88,100:021B16" width="100%" alt=""/>
 
 <div align="center">
 
-## HOW I BUILD APPLICATIONS
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=69DB7C&center=true&vCenter=true&repeat=false&width=700&height=55&lines=HOW+I+BUILD+APPLICATIONS" alt="Application Architecture"/>
 
 </div>
 
@@ -131,22 +130,22 @@ flowchart LR
     C --> D[Spring Boot]
     D --> E[Service Layer]
     E --> F[Spring Data JPA]
-    F --> G[(Database)]
+    F --> G[(PostgreSQL / MySQL)]
 
-    classDef frontend fill:#12306B,stroke:#00C6FF,color:#fff;
-    classDef backend fill:#0b1220,stroke:#38BDF8,color:#fff;
-    classDef database fill:#020617,stroke:#00C6FF,color:#fff;
+    classDef frontend fill:#064E3B,stroke:#39FF88,color:#fff,stroke-width:2px;
+    classDef backend fill:#022C22,stroke:#69DB7C,color:#fff,stroke-width:2px;
+    classDef database fill:#021B16,stroke:#39FF88,color:#fff,stroke-width:2px;
 
     class A,B frontend;
     class C,D,E,F backend;
     class G database;
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:021B16,50:39FF88,100:021B16" width="100%" alt=""/>
 
 <div align="center">
 
-## FEATURED PROJECTS
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=69DB7C&center=true&vCenter=true&repeat=false&width=700&height=55&lines=FEATURED+PROJECTS" alt="Featured Projects"/>
 
 </div>
 
@@ -169,7 +168,10 @@ An AI-powered interview practice application designed to help candidates prepare
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="MERN Stack"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
@@ -190,7 +192,9 @@ An application designed to manage industrial machines and maintenance activities
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate&theme=dark" alt="Java Stack"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 </td>
 </tr>
@@ -212,7 +216,9 @@ An application designed to analyze SQL queries and assist with identifying and f
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="MERN Stack"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
@@ -232,8 +238,8 @@ A data analysis project exploring Olympic historical data and athlete performanc
 
 **Tech Stack**
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 
 </td>
 </tr>
@@ -242,16 +248,16 @@ A data analysis project exploring Olympic historical data and athlete performanc
 <div align="center">
 
 <a href="https://github.com/pranju1711?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_My_Repositories-→-0284C7?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-→-087F5B?style=for-the-badge&logo=github&logoColor=white&labelColor=021B16" alt="Repositories"/>
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:021B16,50:39FF88,100:021B16" width="100%" alt=""/>
 
 <div align="center">
 
-## EDUCATION & TRAINING
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=69DB7C&center=true&vCenter=true&repeat=false&width=700&height=55&lines=EDUCATION+%26+TRAINING" alt="Education"/>
 
 </div>
 
@@ -270,53 +276,55 @@ A data analysis project exploring Olympic historical data and athlete performanc
 - Data Structures and Algorithms
 - Java Full Stack Development
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:021B16,50:39FF88,100:021B16" width="100%" alt=""/>
 
 <div align="center">
 
-## GITHUB TROPHIES
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=69DB7C&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GITHUB+TROPHIES" alt="GitHub Trophies"/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=pranju1711&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="95%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pranju1711&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="95%" alt="GitHub Trophies"/>
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:021B16,50:39FF88,100:021B16" width="100%" alt=""/>
 
 <div align="center">
 
-## GITHUB ANALYTICS
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=69DB7C&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GITHUB+ANALYTICS" alt="GitHub Analytics"/>
+
+<br/><br/>
 
 <a href="https://github.com/pranju1711">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pranju1711&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pranju1711&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 </a>
 
 <a href="https://github.com/pranju1711">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranju1711&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranju1711&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=pranju1711&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=pranju1711&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:021B16,50:39FF88,100:021B16" width="100%" alt=""/>
 
 <div align="center">
 
-## CONTRIBUTION GRAPH
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=69DB7C&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CONTRIBUTION+GRAPH" alt="Contribution Graph"/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranju1711&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" alt="Contribution Graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranju1711&theme=green&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" alt="Contribution Graph"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:021B16,50:39FF88,100:021B16" width="100%" alt=""/>
 
 <div align="center">
 
-## CONTRIBUTION SNAKE
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=69DB7C&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CONTRIBUTION+SNAKE" alt="Contribution Snake"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranju1711/pranju1711/output/github-contribution-grid-snake-dark.svg"/>
@@ -326,26 +334,30 @@ A data analysis project exploring Olympic historical data and athlete performanc
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:021B16,50:39FF88,100:021B16" width="100%" alt=""/>
 
 <div align="center">
 
-## CURRENTLY LEARNING
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=69DB7C&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CURRENTLY+LEARNING" alt="Currently Learning"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Spring_Boot-Development-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/DSA-Problem_Solving-0284C7?style=for-the-badge" alt="DSA"/>
+<img src="https://img.shields.io/badge/DSA-Problem_Solving-087F5B?style=for-the-badge" alt="DSA"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:021B16,50:39FF88,100:021B16" width="100%" alt=""/>
 
 <div align="center">
 
-## LET'S CONNECT
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=69DB7C&center=true&vCenter=true&repeat=false&width=700&height=55&lines=LET'S+CONNECT" alt="Let's Connect"/>
 
-**I'm interested in Java Development, Full Stack Development, and Software Engineering opportunities.**
+<br/>
+
+**Interested in Java Development, Full Stack Development, and Software Engineering? Let's connect!**
 
 <br/>
 
@@ -359,8 +371,8 @@ A data analysis project exploring Olympic historical data and athlete performanc
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=40&lines=Learn.+Build.+Code.+Grow." alt="Learn Build Code Grow"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1500&color=69DB7C&center=true&vCenter=true&repeat=false&width=600&height=40&lines=Learn.+Build.+Code.+Grow." alt="Learn Build Code Grow"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00C6FF,50:12306B,100:020617" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:39FF88,50:065F46,100:021B16" width="100%" alt="Footer"/>
 
 </div>
